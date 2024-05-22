@@ -1,4 +1,4 @@
 # Learn_git
 For Learning purpose.
 <br>
-Author- Nitish Kumar
+Author- Nitish Kumar(Learngi)
